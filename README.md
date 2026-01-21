@@ -6,7 +6,7 @@ A collection of **Java classes** that solve different programming problems focus
 
 This repository contains **four independent Java classes**, each one implementing a different exercise:
 
-1. Binary to Spanish translation  
+1. Morse to Spanish translation  
 2. Probability with large numbers  
 3. Venn diagrams operations  
 4. Student grades management and statistics  
@@ -17,7 +17,7 @@ Each class is designed to be executed independently.
 
 ```text
 .
-├── BinaryToSpanish.java
+├── MorseToSpanish.java
 ├── LargeNumbersProbability.java
 ├── VennDiagrams.java
 ├── StudentGrades.java
